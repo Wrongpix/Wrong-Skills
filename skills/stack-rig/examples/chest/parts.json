@@ -1,0 +1,17 @@
+{
+  "hollow": {
+    "wall": 2,
+    "body_z": [5, 14],
+    "treasure": true
+  },
+  "parts": [
+    {
+      "name": "lid",
+      "mode": "hinge",
+      "select": { "z_from": 14 },
+      "axis": "x",
+      "pivot": "back-seam",
+      "open_degrees": 75
+    }
+  ]
+}
